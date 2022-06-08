@@ -1,0 +1,125 @@
+
+
+body{
+	font-family: helvetica;
+}
+
+#header{
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	background-color: orange;
+}
+
+h1{
+	vertical-align: middle;
+	color: white;
+	font-weight: bold;
+}
+
+.row{
+	margin: 10px 20px;
+}
+
+#results{
+	margin: 30px 20px 10px 0px;
+}
+
+.person-row{
+	border: 1px solid black;
+	margin: 10px 0px;
+	padding: 10px;
+	width: 100%;
+	float: left;
+	background-color: #fdb45c;
+}
+
+.person-row img{
+	width: 50px;
+	float: left;
+	margin-right: 20px;
+}
+
+.person-info{
+	float: left;
+}
+
+.person-row > button{
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  
+
+	body{
+	font-family: helvetica;
+}
+
+#header{
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	background-color: #f16f51;
+}
+
+h1{
+	vertical-align: middle;
+	color: white;
+	font-weight: 100;
+}
+
+.row{
+	margin: 10px 20px;
+}
+
+#results{
+	margin: 30px 20px 10px 0px;
+}
+
+.person-row{
+	margin: 10px 0px;
+	padding: 10px;
+	width: 100%;
+	float: left;
+	background-color: #fdb45c;
+}
+
+.person-row img{
+	width: 50px;
+	float: left;
+	margin-right: 20px;
+}
+
+.person-info{
+	float: left;
+}
+
+.person-info button{
+	float: right;
+}
+
+*/
